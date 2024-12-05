@@ -1,4 +1,4 @@
-# Coral-Island-Mods
+# Coral Island Mods
 
 ### Easy Offering
 Makes all offerings at the temple need 1 piece of wood
