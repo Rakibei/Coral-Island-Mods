@@ -1,7 +1,7 @@
 # Coral-Island-Mods
 
 ### Easy Offering
-Makes all offering at the temple need 1 piece of wood
+Makes all offerings at the temple need 1 piece of wood
 
 ### Easy Sashimi
 Makes the Sashimi recipe need seaweed instead of wasabi
